@@ -1,0 +1,12 @@
+Deeplearningbook:
+Autoencoders: https://www.deeplearningbook.org/contents/autoencoders.html 
+
+
+Github:
+The illustrated transformer: http://jalammar.github.io/illustrated-transformer/
+To understand transformers focus on attention: https://drscotthawley.github.io/blog/posts/Transformers1-Attention.html
+
+
+YouTube:
+Build GPT from scratch: https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy
+Transformers clearly explained: https://www.youtube.com/watch?v=zxQyTK8quyY&ab_channel=StatQuestwithJoshStarmer

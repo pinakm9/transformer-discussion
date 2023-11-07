@@ -1,0 +1,5 @@
+Intro to autoencoders : https://www.tensorflow.org/tutorials/generative/autoencoder 
+Text generation with RNN: https://www.tensorflow.org/text/tutorials/text_generation
+Neural machine translation with attention: https://www.tensorflow.org/text/tutorials/nmt_with_attention
+Neural machine translation with a Transformer and Keras: https://www.tensorflow.org/text/tutorials/transformer
+Image captioning: https://www.tensorflow.org/text/tutorials/image_captioning
