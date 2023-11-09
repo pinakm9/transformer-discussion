@@ -10,3 +10,11 @@ To understand transformers focus on attention: https://drscotthawley.github.io/b
 YouTube:
 Build GPT from scratch: https://www.youtube.com/watch?v=kCc8FmEb1nY&ab_channel=AndrejKarpathy
 Transformers clearly explained: https://www.youtube.com/watch?v=zxQyTK8quyY&ab_channel=StatQuestwithJoshStarmer
+
+
+Keras:
+Autoencoders: https://blog.keras.io/building-autoencoders-in-keras.html
+
+
+Medium:
+Autoencoders: https://blog.keras.io/building-autoencoders-in-keras.html
